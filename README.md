@@ -1,6 +1,6 @@
 #  COMPUTATION 💻  
 1.*CPU*- A CPU (Central Processing Unit) is the most important component of a computer.It performs all types of data processing operations, including:  
- <img src="https://github.com/raunakkk21/Computing-and-Networking/assets/143111163/21ceda3d-76b9-44b1-92d6-3fcbc1bae8cd" height="300" width="500" align="right">
+
   - Arithmetic
   - Logic
   - Controlling
@@ -18,7 +18,7 @@
 - Handle networking functions
 - Relieve the CPU from data processing jobs
   
- <img src="https://github.com/raunakkk21/Computing-and-Networking/assets/143111163/2cb21290-589c-48a0-b54e-d82ed5d37f46" height="200" width="400" align="right">    
+
  
  4.*GPU*-A Graphics Processing Unit (GPU) is a chip that renders graphics for display on an electronic device.GPUs are designed to accelerate computer graphics and image processing.They can perform mathematical calculations at high speed. Computing tasks like: 
 - Graphics rendering
@@ -72,7 +72,7 @@ Type of Hypervisors
 
 20.*Containers*-A container is a software solution that wraps a software process or microservice to make it executable in all computing environments.  
 
-21.*SR-IOV*-The single root I/O virtualization (SR-IOV) interface is an extension to the PCI Express(Peripeheral component interconnect express) specification. SR-IOV allows a device, such as a network adapter, to separate access to its resources among various PCIe hardware functions.CIe is available in different physical configurations, including x1, x4, x8, x16, and x32.  
+
 
 21.*Vertical and Horizontal scaling*    
 <img src="https://github.com/raunakkk21/Computing-and-Networking/assets/143111163/c89c4d76-28e1-4a44-b415-aad8e71068be" height="350" width="600">  
@@ -149,8 +149,7 @@ Types of sharding
 - Container orhestration tools
 <img width="600" height="400" alt="Screenshot 2023-11-03 124703" src="https://github.com/raunakkk21/Computing-and-Networking/assets/143111163/10f11bc8-5b75-445b-807b-3b977f141c2c">
 
-7.*Control plane vs Data Plane*    
-<img src="https://github.com/raunakkk21/Computing-and-Networking/assets/143111163/9fcc5798-9b18-4a6d-884c-3dc6f5a09dce" width="700" height="400" >  
+
 
 8.*COTS*-Commercial-off-the-shelf: A product that is a standard, existing hardware product that is available from commercial sources.COTS products are designed to be easily installed and interoperate with existing system components.  
 
@@ -203,11 +202,10 @@ VCSs help developers:
 
 9.*Prometheus and Grafana*-Prometheus and Grafana are two open-source tools used for application monitoring and analytics. Prometheus and Grafana are both built for time-series data. They are compatible with many, if not most, data source types. It is very common for DevOps teams to run Grafana on top of Prometheus.  
 
-<img width="700" width="400"  alt="Screenshot 2023-11-03 131046" src="https://github.com/raunakkk21/Computing-and-Networking/assets/143111163/17ca3475-69fd-4d4b-a456-860ba419b074">    
+
 
 
 10. *SCA(Side channel attack)*-A side-channel attack (SCA) is a security exploit that attempts to extract secrets from a chip or a system. SCAs are based on extra information that can be gathered because of the fundamental way a computer protocol or algorithm is implemented.
-<img src="https://github.com/raunakkk21/Computing-and-Networking/assets/143111163/21f0b9bf-86da-43fc-a09e-86e842b4feb1" width="600" height="400">
 
 11.*Message que*-A message queue is a sequence of messages that are sent between applications. It's a form of asynchronous service-to-service communication that's used in serverless and microservices architectures.    
 
